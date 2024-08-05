@@ -1,0 +1,21 @@
+C:\Users\Alunos\Desktop\Aula1\Aula1\bin\Debug\Aula1.exe.config
+C:\Users\Alunos\Desktop\Aula1\Aula1\bin\Debug\Aula1.exe
+C:\Users\Alunos\Desktop\Aula1\Aula1\bin\Debug\Aula1.pdb
+C:\Users\Alunos\Desktop\Aula1\Aula1\obj\Debug\Aula1.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\Aula1\Aula1\obj\Debug\Aula1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\Desktop\Aula1\Aula1\obj\Debug\Aula1.Form1.resources
+C:\Users\Alunos\Desktop\Aula1\Aula1\obj\Debug\Aula1.Properties.Resources.resources
+C:\Users\Alunos\Desktop\Aula1\Aula1\obj\Debug\Aula1.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\Aula1\Aula1\obj\Debug\Aula1.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Aula1\Aula1\obj\Debug\Aula1.exe
+C:\Users\Alunos\Desktop\Aula1\Aula1\obj\Debug\Aula1.pdb
+D:\Tecnico de desenvolvimento de Sistemas\DS1\Aula1\Aula1\bin\Debug\Aula1.exe.config
+D:\Tecnico de desenvolvimento de Sistemas\DS1\Aula1\Aula1\bin\Debug\Aula1.exe
+D:\Tecnico de desenvolvimento de Sistemas\DS1\Aula1\Aula1\bin\Debug\Aula1.pdb
+D:\Tecnico de desenvolvimento de Sistemas\DS1\Aula1\Aula1\obj\Debug\Aula1.csproj.AssemblyReference.cache
+D:\Tecnico de desenvolvimento de Sistemas\DS1\Aula1\Aula1\obj\Debug\Aula1.Form1.resources
+D:\Tecnico de desenvolvimento de Sistemas\DS1\Aula1\Aula1\obj\Debug\Aula1.Properties.Resources.resources
+D:\Tecnico de desenvolvimento de Sistemas\DS1\Aula1\Aula1\obj\Debug\Aula1.csproj.GenerateResource.cache
+D:\Tecnico de desenvolvimento de Sistemas\DS1\Aula1\Aula1\obj\Debug\Aula1.csproj.CoreCompileInputs.cache
+D:\Tecnico de desenvolvimento de Sistemas\DS1\Aula1\Aula1\obj\Debug\Aula1.exe
+D:\Tecnico de desenvolvimento de Sistemas\DS1\Aula1\Aula1\obj\Debug\Aula1.pdb
